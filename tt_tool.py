@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/runner/actions-runner/_work/.venv/bin/python3
 import argparse
 import logging
 import sys
